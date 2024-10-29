@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp_remover_blank_line": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
