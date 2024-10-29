@@ -1,0 +1,1 @@
+# ConsoleApp_remover_blank_line
